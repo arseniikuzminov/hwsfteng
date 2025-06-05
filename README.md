@@ -1,4 +1,3 @@
-слава, [06.06.2025 1:48]
 # Comprehensive Technical Documentation for Game Time Monitoring System with Telegram Integration  
 
 ## System Overview and Key Features  
@@ -258,5 +257,3 @@ Issue 3: High CPU Usage
 4. Energy Consumption Metrics  
    - GPU/CPU utilization tracking  
    - Power draw estimation  
-
-This comprehensive documentation provides technical teams with complete implementation details while maintaining accessibility for end users. The modular architecture ensures adaptability to various monitoring scenarios beyond gaming, including productivity application tracking or system resource management.
